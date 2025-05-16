@@ -1,0 +1,25 @@
+{
+  "name": "super-nergo",
+  "version": "1.0.0",
+  "description": "nuevo chatbot de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelUriel714/Super-nergo.git"
+  },
+  "keywords": [
+    "chatbot",
+    "negro",
+    "supernegro"
+  ],
+  "author": "Axeluriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AxelUriel714/Super-nergo/issues"
+  },
+  "homepage": "https://github.com/AxelUriel714/Super-nergo#readme"
+}
